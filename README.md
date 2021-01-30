@@ -8,3 +8,5 @@
 - :hearts: Sempre buscando melhorar como pessoa: comunicação, colaboração, empatia e liderança 
 - :e-mail: gabriel.mirandab92@gmail.com
 - :briefcase: https://www.linkedin.com/in/gabrielmirandab/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandaBR&layout=compact)](https://github.com/gabrielmirandaBR/github-readme-stats)

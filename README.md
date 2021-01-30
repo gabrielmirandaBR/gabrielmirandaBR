@@ -1,8 +1,6 @@
-### Olá, sou Gabriel, engenheiro agrônomo pela UFV-MG e estudante de Desenvolvimento de Software na Trybe 👋:v:
+### Olá, sou Gabriel, engenheiro agrônomo pela UFV-MG e estudante de Desenvolvimento de Software na Trybe <img src="https://raw.githubusercontent.com/gabrielmirandaBR/gabrielmirandaBR/master/wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/gabrielmirandab/)
-
-![GitHub followers](https://img.shields.io/github/followers/gabrielmirandaBR?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/gabrielmirandab/)![GitHub followers](https://img.shields.io/github/followers/gabrielmirandaBR?style=social)
 
 
 

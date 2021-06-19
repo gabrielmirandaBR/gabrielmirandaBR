@@ -1,20 +1,53 @@
-### Olá, sou Gabriel, estudante de Desenvolvimento Web Full Stack Jr. :wave:
+<a href="https://github.com/gabrielmirandaBR" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-3089482-2567434.png" width="48px" height="48px">
+</a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/gabrielmirandab/) ![GitHub followers](https://img.shields.io/github/followers/gabrielmirandaBR?style=social)
+<a href="https://www.linkedin.com/in/gabrielmirandab/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/github-3089487-2567439.png" width="48px" height="48px">
+</a>
 
-- :mortar_board: Desenvolvimento de Software Full Stack na Trybe
-- :corn: Engenheiro Agrônomo na Univerisdade Federal de Viçosa (UFV-MG)
-- :computer: Entusiasta em tecnologia
-- :telescope: Em busca de novos conhecimentos: aprendendo a aprender
-- :hearts: Sempre buscando melhorar como pessoa: comunicação, colaboração, empatia e liderança 
-- :e-mail: gabriel.mirandab92@gmail.com
+<br />
+<br />
 
----
-![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, estou em transição de carreira para área de tecnologia estudando para ser um **Desenvolvedor Full-Stack Júnior** :nerd_face: :rocket:. 
+
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" />
+
+- 👨🏽‍💻 Estou aprofundando meus estudos em front-end com **ReactJS** e **Redux**;
+- 🌱 Sou Engenheiro Agrônomo formado na Univerisdade Federal de Viçosa (UFV-MG) 
+- 🤔 Meus hobbies são caminhar, escutar podcasts e assistir séries ;
+- 💼 Estou em busca de novos desafios e oportunidades;
+- 📫 Pode me enviar um email para gabriel.mirandab92@gmail.com para me encontrar.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1wRaIxfpptDjReBQRJPqjL7zHyIYpPuAB/view?usp=sharing" target="_blank">cúrriculo</a> para mais informações.
 
 
+**Linguagens e ferramentas:**  
 
+<p align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/linux-17-570099.png" alt="linux" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="html" width="40" height="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="css" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" alt="react" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/redux-3629018-3030243.png" alt="redux" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3521517-2945020.png" alt="jest" width="40" height="40"/> 
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmirandaBR&show_icons=true&theme=dark)
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielmirandaBR&show_icons=true&theme=dark" alt="gabriel-miranda" />
+</p>
 
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandaBR&layout=compact&theme=dark" alt="gabriel-miranda" />
+</p>
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmirandabR" alt="gabriel-miranda" /> </p>
+
+<p align="left">⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)</p>
 

@@ -1,8 +1,8 @@
-<a href="https://github.com/gabrielmirandaBR" target="_blank">
+<a href="https://www.linkedin.com/in/gabrielmirandab/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-3089482-2567434.png" width="48px" height="48px">
 </a> 
 
-<a href="https://www.linkedin.com/in/gabrielmirandab/" target="_blank">
+<a href="https://github.com/gabrielmirandaBR" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-64/github-3089487-2567439.png" width="48px" height="48px">
 </a>
 

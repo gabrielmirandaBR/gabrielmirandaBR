@@ -34,7 +34,10 @@ Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, 
   <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" alt="react" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-64/redux-3629018-3030243.png" alt="redux" width="40" height="40"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3521517-2945020.png" alt="jest" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3521517-2945020.png" alt="jest" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="mysql" width="40" height="40"/> 
+  
+ 
 </p>
 
 <p>

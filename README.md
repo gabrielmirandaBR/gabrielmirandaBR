@@ -16,7 +16,6 @@ Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" />
 
 - 👨🏽‍💻 Estou aprofundando meus estudos em back-end;
-- :computer: Sou desenvolvedor <a href="https://drive.google.com/file/d/14fp4Ga9LPBN2_Ms4ZYfvXrPJNpeVRbnK/view?usp=sharing" target="_blank"> Front-end</a>;
 - 🌱 Sou Engenheiro Agrônomo formado na Univerisdade Federal de Viçosa (UFV-MG) 
 - 🤔 Meus hobbies são caminhar, escutar podcasts e assistir séries ;
 - 💼 Estou em busca de novos desafios e oportunidades;

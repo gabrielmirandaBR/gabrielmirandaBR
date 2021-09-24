@@ -9,11 +9,11 @@
 <br />
 <br />
 
-Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, estou em transição de carreira para área de tecnologia estudando para ser um **Desenvolvedor Full-Stack Júnior** :nerd_face: :rocket:. 
+Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, sou desenvolvedor back-end na <a href="https://www.dito.com.br/" target="_blank">Dito</a>. Sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> para ser um **Desenvolvedor Full-Stack Júnior** e focando meus estudos na linguagem **golang** :nerd_face: :rocket:. 
 
 **Meus interesses pessoais:**
 
-- 👨🏽‍💻 Estou aprofundando meus estudos em back-end;
+- 👨🏽‍💻 Estou aprofundando meus estudos em back-end, focando em node.js e Golang;
 - 🌱 Sou Engenheiro Agrônomo formado na Univerisdade Federal de Viçosa (UFV-MG) 
 - 🤔 Meus hobbies são caminhar, escutar podcasts e assistir séries ;
 - 💼 Estou em busca de novos desafios e oportunidades;

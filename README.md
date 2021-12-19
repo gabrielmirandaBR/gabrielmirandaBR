@@ -14,7 +14,8 @@ Sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> pa
 
 **Meus interesses pessoais:**
 
-- 🌱 Sou Desenvolvedor back-end na Dito CRM, trabalhando com tecnologias como Golang, JavaScript, Docker, Kubernetes, Google Cloud Plataform e arquitetura de software (clean code)
+- 🌱 Sou Desenvolvedor back-end na Dito CRM, trabalhando com tecnologias como Golang, JavaScript, Docker, Kubernetes, Google Cloud Plataform e arquitetura de software (clean code);
+- :running: Desenvovimento de software utilizando metodologia ágil com os ritos do Scrum;
 - 💼 Sempre em busca de novos desafios e oportunidades;
 - 📫 Pode me enviar um email para gabriel.mirandab92@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1wRaIxfpptDjReBQRJPqjL7zHyIYpPuAB/view?usp=sharing" target="_blank">cúrriculo</a> para mais informações.

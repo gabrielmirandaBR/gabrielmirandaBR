@@ -27,6 +27,7 @@ Sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> pa
 </p>
 
 <br />
+
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmirandabR" alt="gabriel-miranda" /> </p>

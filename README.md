@@ -5,13 +5,17 @@
 <br />
 <br />
 
-Olá, me chamo **Gabriel Miranda Barros**, sou de Barbacena (MG) e, atualmente, sou **desenvolvedor back-end** na <a href="https://www.dito.com.br/" target="_blank">Dito</a>. 
-Sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> para ser um **Desenvolvedor Full-Stack Júnior** e, atualmente, estou focando meus estudos na linguagem **Golang** :nerd_face: :rocket:. 
+Olá, me chamo **Gabriel** e atuo como **desenvolvedor back-end** na <a href="https://www.dito.com.br/" target="_blank">Dito</a>. 
+<br />
+Me formei em Desenvolvimento Web Full Stack pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 
-**Meus interesses pessoais:**
+**Principais habilidades:**
 
-- 🌱 Sou Desenvolvedor back-end na Dito CRM, trabalhando com tecnologias como Golang, Python, JavaScript, AirFlow, Docker, Kubernetes e Google Cloud Plataform;
-- :running: Experiência em desenvovimento de software utilizando ideias ágeis pelo método de Scrum;
+- Desenvolvimento de produto utilizando metodologia ágil (Scrum);
+- Tabalho com aplicações utilizando arquitetura de microserviço;
+- Cultura de code review (CR) e quality assurance (QA);
+- Google Cloud Plataform (GCP);
+- Utilização de tecnologias como Golang, JavaScript, Python, AirFlow, Docker, Postgres, Firestore e BigQuery.
 
 </br>
 
